@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:02:38 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Fri Feb 24 22:29:01 2023
+# Process ID: 33930
+# Current directory: /home/vlsidesign3/Work_Saineeth/icdesignlab/Automation/Automation.runs/impl_1
+# Command line: vivado -log top_4BIT_ARRAY_MULTIPLIER.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top_4BIT_ARRAY_MULTIPLIER.tcl -notrace
+# Log file: /home/vlsidesign3/Work_Saineeth/icdesignlab/Automation/Automation.runs/impl_1/top_4BIT_ARRAY_MULTIPLIER.vdi
+# Journal file: /home/vlsidesign3/Work_Saineeth/icdesignlab/Automation/Automation.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source top_4BIT_ARRAY_MULTIPLIER.tcl -notrace
